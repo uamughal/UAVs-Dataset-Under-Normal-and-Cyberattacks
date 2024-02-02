@@ -9,6 +9,19 @@ Unmanned aerial vehicles (UAVs) are being used for various applications, but the
 - Four cyber-attacks are considered in this dataset, namely, de-authentication denial-of-service attacks, replay attacks, false data injection attacks, and evil twin attacks. 
 - Details about the testbed equipment are found in our publication.
 
+# Dataset Details
+
+The dataset includes:
+
+Benign:       ||  Cyber: 1--9426             | Physical: 9427--13717
+              ||                             |
+DoS Attack    ||  Cyber: 13718--25389        | Physical: 25390--26363 
+              ||                             |
+Replay Attack ||  Cyber: 26364--38370        | Physical: 38371--39344  
+              ||                             | 
+Evil Twin     ||  Cyber: 39345--45028        | Physical: 45029--50502
+              ||                             |
+FDI           ||  Cyber: 50503--53976        | Physical: 53977--54784
 
 # Citing this work
 If you are using our implementation, you are encouraged to cite [our paper](https://ieeexplore.ieee.org/abstract/document/10368002).
