@@ -26,7 +26,8 @@ FDI           ||  Cyber: 50503--53976        | Physical: 53977--54784
 ```
 
 # Citing this work
-If you are using our implementation, you are encouraged to cite [our paper](https://ieeexplore.ieee.org/abstract/document/10368002).
+- If you are using our implementation, you are encouraged to cite [our paper](https://ieeexplore.ieee.org/abstract/document/10368002).
+- This dataset is available at [IEEE DataPort](https://ieee-dataport.org/documents/cyber-physical-dataset-uavs-under-normal-operations-and-cyber-attacks).
 ``` 
 
 @article{hassler2023cyber,
